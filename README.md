@@ -9,7 +9,7 @@ Conceptual version of a simple memorizing game
 
 
 <center>
-  <font color="red" size="72">Have fun remembering</font>
+  Have fun remembering
 </center>
 
 
