@@ -1,0 +1,1 @@
+Organizacja komputera - obejmuje wzajemne powiązania, i współdziałanie jego, poszczególnych bloków funkcjonalnych.
